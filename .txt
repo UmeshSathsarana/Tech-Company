@@ -1,0 +1,5 @@
+1	Kasun	20	kasun12@gmail.com	IT
+2	Supun	25	Supun34@gmail.com	Design
+3	Pathum	30	pathum90@gmail.com	Business Development
+4	Saman	32	saman67@gmail.com	Business Development
+5	kalum	28	kalum7@gmail.com	Marketing

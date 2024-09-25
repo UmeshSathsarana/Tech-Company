@@ -1,0 +1,13 @@
+123	CSS	Core	2023-03-29	Level 4
+123	CSS	Core	2023-03-29	Level 4
+444	wildLIfe Convercation	Optional	2023-11-26	Level 5
+555	Thanaya	Optional	2023-02-28	Level 6
+777	photography	Optional	2025-08-04	Level 6
+888	SQL	Core	2023-11-22	Level 5
+888	Computer Network	Optional	2023-11-27	Level 5
+222	WWE	Core	2024-01-22	Level 6
+2023	Python	Core	2023-05-09	Level 4
+222	HTML	Optional	2023-02-09	Level 6
+456	sffsg	Core	2023-05-09	Level 5
+1	dbasd,nabs	Core	2024-06-21	Level 4
+111	sasas	Core	2023-05-09	Level 5
